@@ -26,7 +26,7 @@ Tenho conhecimento basico desenvolvimento web e análise de dados com Python, co
 - Front-End: HTML, CSS, JavaScript  
 - Back-End / Lógica: Java (POO) 
 - Dados: Python (pandas, numpy, matplotlib, scikit-learn)  
-- Ferramentas: Git, GitHub, Google Sheets, ERP (Magis5, Eccosys)
+- Ferramentas: Git, GitHub,Figma, Power BI, Intellij, Google Sheets, ERP (Magis5, Eccosys)
 
 ---
 ## 🔥 Projetos em destaque

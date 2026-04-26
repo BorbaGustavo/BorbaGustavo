@@ -5,7 +5,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borbagustavo&theme=darcula&layout=compact&card_width=600&custom_title=Linguagens%20Mais%20Usadas)
 
 🩻 Desenvolvedor em formação  
+
 📊 Interesse  Análise de Dados e Fullstack 
+
 ⚙️Focado em criar soluções práticas com tecnologia  
 
 

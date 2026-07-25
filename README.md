@@ -31,7 +31,7 @@ Tenho conhecimento basico desenvolvimento web e análise de dados com Python, co
 ---
 ## 🔥 Projetos em destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=borbagustavo&repo=curriculum-web&description_lines_count=2&theme=darcula)](https://github.com/BorbaGustavo/curriculum-web)
+[![Readme Card](https://github.com/AnaMendes-25/GS_Front-Mino_lines_count=2&theme=darcula)](https://github.com/BorbaGustavo/curriculum-web)
 
 ---
 ## 📫 Contato

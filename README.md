@@ -13,7 +13,7 @@
 
 
 ## 📎 Sobre mim
-Tenho 25 anos.
+Tenho 26 anos.
 
 Atualmente em transição para a área de tecnologia, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na FIAP.
 

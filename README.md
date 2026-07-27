@@ -2,11 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=500&color=F74B31&background=33333300&center=true&vCenter=true&multiline=true&repeat=false&height=80&lines=Ol%C3%A1%2C++me+chamo++Gustavo!)](https://git.io/typing-svg)
 
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borbagustavo)](https://github.com/BorbaGustavo)
-
-</div>
 
 🩻 Desenvolvedor em formação  
 
@@ -37,7 +32,9 @@ Tenho conhecimento basico desenvolvimento web e análise de dados com Python, co
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=borbagustavo&repo=NOME-DO-SEU-REPOSITORIO&theme=darcula)](https://github.com/borbagustavo/NOME-DO-SEU-REPOSITORIO)
+| Projeto | Descrição | Tecnologias |
+| Mino| Projeto de previsão do tempo para melhor envio de entrega | HTML, JS, CSS |
+| 🚀 **[MINO](https://lnkd.in/dDqXJ-G7)**|**[🔗Protótipo Rodando (GitHub Pages)](https://lnkd.in/dsF9v6sT)**
 
 </div>
 

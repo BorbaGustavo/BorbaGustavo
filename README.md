@@ -32,8 +32,6 @@ Tenho conhecimento basico desenvolvimento web e análise de dados com Python, co
 
 <div align="center">
 
-| Projeto | Descrição | Tecnologias |
-| Mino| Projeto de previsão do tempo para melhor envio de entrega | HTML, JS, CSS |
 | 🚀 **[MINO](https://lnkd.in/dDqXJ-G7)**|**[🔗Protótipo Rodando (GitHub Pages)](https://lnkd.in/dsF9v6sT)**
 
 </div>

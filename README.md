@@ -32,7 +32,7 @@ Tenho conhecimento basico desenvolvimento web e análise de dados com Python, co
 
 <div align="center">
 
-| 🚀 **[MINO](https://lnkd.in/dDqXJ-G7)**|**[🔗Protótipo Rodando (GitHub Pages)]((https://anamendes-25.github.io/GS_Front-Mino/))**
+| 🚀 **[MINO](https://lnkd.in/dDqXJ-G7)**|**[🔗Protótipo Rodando (GitHub Pages)](https://anamendes-25.github.io/GS_Front-Mino/)**
 
 </div>
 
